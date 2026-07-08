@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Yuvraj Rode
+# 👋 Hi, I'm Yuvraj
 
 Building Python projects and learning DSA & Cybersecurity.
 
