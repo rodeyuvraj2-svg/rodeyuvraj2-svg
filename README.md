@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Yuvraj
 
-Building Python projects and learning DSA, Japanese & Cybersecurity.
+Always learning. Always building.
 
 ## 🛠 Tech Stack
 
@@ -9,7 +9,7 @@ Building Python projects and learning DSA, Japanese & Cybersecurity.
 
 ## 🎯 2026 Goal
 
-Build meaningful Python projects while continuously improving my problem-solving skills.
+Build meaningful Python projects, master DSA, and achieve JLPT N5 in Japanese.
 
 ## 🎨 Fun Fact
 
