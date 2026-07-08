@@ -1,17 +1,11 @@
 # 👋 Hi, I'm Yuvraj
 
-Building Python projects and learning DSA & Cybersecurity.
+Building Python projects and learning DSA, Japanese & Cybersecurity.
 
 ## 🛠 Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-0A66C2?style=for-the-badge&logo=hackthebox&logoColor=white)
-
-## 📚 Currently Learning
-
-- 🧩 Data Structures & Algorithms
-- 🔒 Cybersecurity
-- 🇯🇵 Japanese
 
 ## 🎯 2026 Goal
 
