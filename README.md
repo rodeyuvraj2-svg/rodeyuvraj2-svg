@@ -5,7 +5,6 @@ Always learning. Always building.
 ## 🛠 Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-0A66C2?style=for-the-badge&logo=hackthebox&logoColor=white)
 
 ## 🎯 2026 Goal
 
