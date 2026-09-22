@@ -6,10 +6,6 @@ Always learning. Always building.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-## 🎯 2026 Goal
-
-Build meaningful Python projects, master DSA, and achieve JLPT N5 in Japanese.
-
 ## 🎨 Fun Fact
 
 Outside of coding, I enjoy creating random edits and sharing them on YouTube.
