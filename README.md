@@ -10,4 +10,4 @@ Always learning. Always building.
 
 Outside of coding, I enjoy creating random edits and sharing them on YouTube.
 
-[![YouTube](https://img.shields.io/badge/YouTube-@Cozob-FF0000?style=for-the-badge&logo=youtube&logoColor=white)]([https://www.youtube.com/@Cozob](https://www.youtube.com/@Cozob/shorts))
+[![YouTube](https://img.shields.io/badge/YouTube-@Cozob-FF0000?style=for-the-badge&logo=youtube&logoColor=white)]([https://www.youtube.com/@Cozob/shorts])
